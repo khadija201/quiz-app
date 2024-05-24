@@ -1,0 +1,26 @@
+body{
+    background-image: url(./7mqq6v_large.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.welcome{
+    text-align: center;
+    padding-top: 10%;
+    font-size: 300%;
+
+}
+.QUIZ{
+background-color: rgb(153, 189, 201);
+font-size: 100%;
+padding: 1%;
+border-radius: 15%;
+}
+.QUIZ  a{
+    color: black;
+    
+}
+:hover a{
+    color:rgb(69, 141, 117);
+    
+}
